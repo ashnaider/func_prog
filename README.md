@@ -1,1 +1,1 @@
-# Functional programmint course tasks in Prolog
+# Functional programming course tasks in Prolog
